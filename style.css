@@ -1,0 +1,23 @@
+/* Style for the footer */
+footer {
+    background-color: #292929;
+    color: white;
+}
+
+footer h5 {
+    text-transform: uppercase;
+}
+
+footer hr {
+    border-top: 1px solid white;
+}
+
+footer ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
